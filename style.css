@@ -1,0 +1,57 @@
+/* Je supprime les marges exterieurs */
+html,body{
+    margin: 0;
+    padding: 2px;
+}
+/* Je met en forme la barre de navigation */
+header{
+    background-color: rgb(98, 205, 231);
+    position: relative;
+    width: 100%;
+    height: 60px;
+    margin-top: 0px;
+}
+header li{
+    display: inline-block;
+    float: right;/* je fait flotter les items de la liste a droite*/
+    margin: 10px;
+}
+/* mise en forme des liens de la barre de navigation */
+li a{
+    text-decoration: none;
+    color: greenyellow;
+}
+li a:hover{
+    color: antiquewhite;
+}
+/* la boite contenant l'image */
+.images{
+    width: 30%;
+    border: solid black 2px;
+    padding: 10px;
+    position: relative;
+    margin-top: -370px;
+    float: right;
+}
+video{
+    width: 50%;
+}
+.tableau,.foot{
+    width: 40%;
+}
+td,th{
+    border: 1px solid rgb(58, 57, 57);
+}
+table{
+    
+    overflow: auto;
+    border-collapse: collapse;
+}
+.card img{
+    width: 100%;
+}
+.f{
+    float:left;
+    font-size: 400%;
+    margin: -0.20em 0px -0.20em 0px;
+}
