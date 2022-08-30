@@ -1,0 +1,310 @@
+[{
+        "datasetid":"fr-esr-ere-enquete-ressources-electroniques",
+        "recordid":"af099e6b89193b578093c9cc4257fe77b232b4e0",
+        "fields":{
+            "montant_en_eur_ht":2448,
+            "etablissement":"Académie nationale de médecine",
+            "editeur":"Elsevier - Masson",
+            "id_paysage":"T2elJ",
+            "idref":"026357879",
+            "ror":"01b266018",
+            "siret":"18009216500018",
+            "wikidata":"Q337555",
+            "region":"Île-de-France",
+            "code_region":"R11",
+            "code_departement":"D075",
+            "code_academie":"A01",
+            "grid":"grid.461915.e",
+            "uai":"0753705V",
+            "negocie":"Oui",
+            "millesime":"2019",
+            "departement":"Paris",
+            "categorie_juridique":"Établissement public national à caractère administratif",
+            "produit":"Bibliothèque Médicale Française (BMF) - Masson",
+            "categorie":"Société savante",
+            "academie":"Paris"
+        }
+        ,
+        "record_timestamp":"2022-06-14T13:48:39.828Z"
+    }
+    ,
+    {
+        "datasetid":"fr-esr-ere-enquete-ressources-electroniques",
+        "recordid":"e68582b29b7f50a620010a7423962702efad5b12",
+        "fields":{
+            "montant_en_eur_ht":25494.3,
+            "etablissement":"Institut national des sciences et industries du vivant et de l'environnement (AgroParisTech)",
+            "editeur":"Elsevier",
+            "id_paysage":"SsSFH",
+            "idref":"139408088",
+            "ror":"02kbmgc12",
+            "siret":"13000285000019",
+            "wikidata":"Q1637105",
+            "sigle":"AgroParisTech",
+            "region":"Île-de-France",
+            "code_region":"R11",
+            "code_departement":"D075",
+            "code_academie":"A01",
+            "grid":"grid.417885.7",
+            "uai":"0753465J",
+            "negocie":"Oui",
+            "millesime":"2019",
+            "departement":"Paris",
+            "categorie_juridique":"Établissement public à caractère scientifique, culturel et professionnel",
+            "produit":"Elsevier - Freedom Collection",
+            "categorie":"Grand établissement relevant d'un autre département ministériel",
+            "academie":"Paris"
+        }
+        ,
+        "record_timestamp":"2022-06-14T13:48:39.828Z"
+    }
+    ,
+    {
+        "datasetid":"fr-esr-ere-enquete-ressources-electroniques",
+        "recordid":"9adb0214d6f39d664ca5912b4cbb1d2d0275dc26",
+        "fields":{
+            "montant_en_eur_ht":793.83,
+            "etablissement":"Institut national des sciences et industries du vivant et de l'environnement (AgroParisTech)",
+            "editeur":"Universalis France",
+            "id_paysage":"SsSFH",
+            "idref":"139408088",
+            "ror":"02kbmgc12",
+            "siret":"13000285000019",
+            "wikidata":"Q1637105",
+            "sigle":"AgroParisTech",
+            "region":"Île-de-France",
+            "code_region":"R11",
+            "code_departement":"D075",
+            "code_academie":"A01",
+            "grid":"grid.417885.7",
+            "uai":"0753465J",
+            "negocie":"Oui",
+            "millesime":"2020",
+            "departement":"Paris",
+            "categorie_juridique":"Établissement public à caractère scientifique, culturel et professionnel",
+            "produit":"Encyclopedia Universalis (seule)",
+            "categorie":"Grand établissement relevant d'un autre département ministériel",
+            "academie":"Paris"
+        }
+        ,
+        "record_timestamp":"2022-06-14T13:48:39.828Z"
+    }
+    ,
+    {
+        "datasetid":"fr-esr-ere-enquete-ressources-electroniques",
+        "recordid":"d724d14928796e9593bc63bfee48757e2de0d121",
+        "fields":{
+            "montant_en_eur_ht":10227,
+            "etablissement":"Institut national des sciences et industries du vivant et de l'environnement (AgroParisTech)",
+            "editeur":"Taylor & Francis",
+            "id_paysage":"SsSFH",
+            "idref":"139408088",
+            "ror":"02kbmgc12",
+            "siret":"13000285000019",
+            "wikidata":"Q1637105",
+            "sigle":"AgroParisTech",
+            "region":"Île-de-France",
+            "code_region":"R11",
+            "code_departement":"D075",
+            "code_academie":"A01",
+            "grid":"grid.417885.7",
+            "uai":"0753465J",
+            "negocie":"Oui",
+            "millesime":"2020",
+            "departement":"Paris",
+            "categorie_juridique":"Établissement public à caractère scientifique, culturel et professionnel",
+            "produit":"Taylor & Francis - Subject Package: Biological, Earth, Environmental & Food Science",
+            "categorie":"Grand établissement relevant d'un autre département ministériel",
+            "academie":"Paris"
+        }
+        ,
+        "record_timestamp":"2022-06-14T13:48:39.828Z"
+    }
+    ,
+    {
+        "datasetid":"fr-esr-ere-enquete-ressources-electroniques",
+        "recordid":"f6fff106c9de6057d8b7acb5687371a010fb69bf",
+        "fields":{
+            "montant_en_eur_ht":18247,
+            "etablissement":"Institut national des sciences et industries du vivant et de l'environnement (AgroParisTech)",
+            "editeur":"Groupe Weka",
+            "id_paysage":"SsSFH",
+            "idref":"139408088",
+            "ror":"02kbmgc12",
+            "siret":"13000285000019",
+            "wikidata":"Q1637105",
+            "sigle":"AgroParisTech",
+            "region":"Île-de-France",
+            "code_region":"R11",
+            "code_departement":"D075",
+            "code_academie":"A01",
+            "grid":"grid.417885.7",
+            "uai":"0753465J",
+            "negocie":"Oui",
+            "millesime":"2019",
+            "departement":"Paris",
+            "categorie_juridique":"Établissement public à caractère scientifique, culturel et professionnel",
+            "produit":"Techniques de l'ingénieur",
+            "categorie":"Grand établissement relevant d'un autre département ministériel",
+            "academie":"Paris"
+        }
+        ,
+        "record_timestamp":"2022-06-14T13:48:39.828Z"
+    }
+    ,
+    {
+        "datasetid":"fr-esr-ere-enquete-ressources-electroniques",
+        "recordid":"b916007916669d9daea4ed789ee8d1c244102edd",
+        "fields":{
+            "montant_en_eur_ht":18520.71,
+            "etablissement":"Institut national des sciences et industries du vivant et de l'environnement (AgroParisTech)",
+            "editeur":"Groupe Weka",
+            "id_paysage":"SsSFH",
+            "idref":"139408088",
+            "ror":"02kbmgc12",
+            "siret":"13000285000019",
+            "wikidata":"Q1637105",
+            "sigle":"AgroParisTech",
+            "region":"Île-de-France",
+            "code_region":"R11",
+            "code_departement":"D075",
+            "code_academie":"A01",
+            "grid":"grid.417885.7",
+            "uai":"0753465J",
+            "negocie":"Oui",
+            "millesime":"2020",
+            "departement":"Paris",
+            "categorie_juridique":"Établissement public à caractère scientifique, culturel et professionnel",
+            "produit":"Techniques de l'ingénieur",
+            "categorie":"Grand établissement relevant d'un autre département ministériel",
+            "academie":"Paris"
+        }
+        ,
+        "record_timestamp":"2022-06-14T13:48:39.828Z"
+    }
+    ,
+    {
+        "datasetid":"fr-esr-ere-enquete-ressources-electroniques",
+        "recordid":"e33eb80eb88e96282fc53914493ba604d13887ee",
+        "fields":{
+            "montant_en_eur_ht":3155,
+            "etablissement":"Aix-Marseille Université (AMU)",
+            "editeur":"Alexander Street",
+            "id_paysage":"xJdyB",
+            "idref":"15863621X",
+            "ror":"035xkbk20",
+            "siret":"13001533200013",
+            "wikidata":"Q2302586",
+            "sigle":"AMU",
+            "region":"Provence-Alpes-Côte d'Azur",
+            "code_region":"R93",
+            "code_departement":"D013",
+            "code_academie":"A02",
+            "grid":"grid.5399.6",
+            "uai":"0134009M",
+            "negocie":"Non",
+            "millesime":"2019",
+            "departement":"Bouches-du-Rhône",
+            "categorie_juridique":"Établissement public à caractère scientifique, culturel et professionnel",
+            "produit":"Alexander Street - Bases de données",
+            "categorie":"Université",
+            "academie":"Aix-Marseille"
+        }
+        ,
+        "record_timestamp":"2022-06-14T13:48:39.828Z"
+    }
+    ,
+    {
+        "datasetid":"fr-esr-ere-enquete-ressources-electroniques",
+        "recordid":"ca5cdee4deda1a0ac21855701798316b8a415f26",
+        "fields":{
+            "montant_en_eur_ht":4248.89,
+            "etablissement":"Aix-Marseille Université (AMU)",
+            "editeur":"Alexander Street",
+            "id_paysage":"xJdyB",
+            "idref":"15863621X",
+            "ror":"035xkbk20",
+            "siret":"13001533200013",
+            "wikidata":"Q2302586",
+            "sigle":"AMU",
+            "region":"Provence-Alpes-Côte d'Azur",
+            "code_region":"R93",
+            "code_departement":"D013",
+            "code_academie":"A02",
+            "grid":"grid.5399.6",
+            "uai":"0134009M",
+            "negocie":"Non",
+            "millesime":"2020",
+            "departement":"Bouches-du-Rhône",
+            "categorie_juridique":"Établissement public à caractère scientifique, culturel et professionnel",
+            "produit":"Alexander Street - Bases de données",
+            "categorie":"Université",
+            "academie":"Aix-Marseille"
+        }
+        ,
+        "record_timestamp":"2022-06-14T13:48:39.828Z"
+    }
+    ,
+    {
+        "datasetid":"fr-esr-ere-enquete-ressources-electroniques",
+        "recordid":"6955df433a93b0a16cb757a87b4ace1a5b200c79",
+        "fields":{
+            "montant_en_eur_ht":22321.33,
+            "etablissement":"Aix-Marseille Université (AMU)",
+            "editeur":"American Physical Society (APS)",
+            "id_paysage":"xJdyB",
+            "idref":"15863621X",
+            "ror":"035xkbk20",
+            "siret":"13001533200013",
+            "wikidata":"Q2302586",
+            "sigle":"AMU",
+            "region":"Provence-Alpes-Côte d'Azur",
+            "code_region":"R93",
+            "code_departement":"D013",
+            "code_academie":"A02",
+            "grid":"grid.5399.6",
+            "uai":"0134009M",
+            "negocie":"Oui",
+            "millesime":"2019",
+            "departement":"Bouches-du-Rhône",
+            "categorie_juridique":"Établissement public à caractère scientifique, culturel et professionnel",
+            "produit":"American Physical Society (APS) - Revues",
+            "categorie":"Université",
+            "academie":"Aix-Marseille"
+        }
+        ,
+        "record_timestamp":"2022-06-14T13:48:39.828Z"
+    }
+    ,
+    {
+        "datasetid":"fr-esr-ere-enquete-ressources-electroniques",
+        "recordid":"b16534e6d618089b5dee25c7e21cb55d9f049a65",
+        "fields":{
+            "montant_en_eur_ht":2800.04,
+            "etablissement":"Aix-Marseille Université (AMU)",
+            "editeur":"Brill",
+            "id_paysage":"xJdyB",
+            "idref":"15863621X",
+            "ror":"035xkbk20",
+            "siret":"13001533200013",
+            "wikidata":"Q2302586",
+            "sigle":"AMU",
+            "region":"Provence-Alpes-Côte d'Azur",
+            "code_region":"R93",
+            "code_departement":"D013",
+            "code_academie":"A02",
+            "grid":"grid.5399.6",
+            "uai":"0134009M",
+            "negocie":"Oui",
+            "millesime":"2019",
+            "departement":"Bouches-du-Rhône",
+            "categorie_juridique":"Établissement public à caractère scientifique, culturel et professionnel",
+            "produit":"Brill online SHS - Reference works",
+            "categorie":"Université",
+            "academie":"Aix-Marseille"
+        }
+        ,
+        "record_timestamp":"2022-06-14T13:48:39.828Z"
+    }
+
+]

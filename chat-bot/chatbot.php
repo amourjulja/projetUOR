@@ -15,7 +15,7 @@ if(isset($_POST['question']) && !empty($_POST['question'])){
     }
     else{
         $res=array(
-            'reponse'=>'Merci mais je ne comprend pas ce que vous dites'
+            'reponse'=>'Merci mais je ne comprends pas ce que vous dites'
         );
     }
 

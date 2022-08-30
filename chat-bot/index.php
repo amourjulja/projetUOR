@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Chat-bot</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="bootstrap.css">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -31,8 +31,10 @@
 </div>
 
 </body>
-<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script src="jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 <script>
+    //la fonction qui qffiche les messages dans le chat
+
     function affiche(pour,message){
         let el=`
 
@@ -50,10 +52,13 @@
             </ul>`
                 $('#boite').html($('#boite').html()+el)
     }
+    //j'ecoute l'evenement clic sur le bouton d'envoi
     $('#envoyer').on('click',function(e){
+        //je recupere le message
         let message=$('#message').val();
+        //je l'affiche
         affiche('Vous',message);
-
+        //je l'envoi au chat-bot (nome Vchat)
         $.ajax({
             method:'POST',
             url:'chatbot.php',
@@ -62,6 +67,7 @@
                 question:message
             },
             success:function(data){
+                //j'affiche la reponse du chatbot
                 affiche('Vchat',data.reponse)
             }
         })

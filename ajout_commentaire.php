@@ -7,21 +7,23 @@ function isEmail($string){
         if(isset($_POST['prenom']) && !empty($_POST['prenom'])){
             if(isset($_POST['nom']) && !empty($_POST['nom'])){
                 if(isset($_POST['email']) && !empty($_POST['email']) && isEmail($_POST['email']) ){
+                    //vérificqtion du co,,entqire
                     if(isset($_POST['commentaire']) && !empty($_POST['commentaire'])){
-                        
-                         $donnees=array(
+                        //j'organise les datas verifiées pour la RQ preparée
+                        $donnees=array(
                             'prenom'=>htmlspecialchars($_POST['prenom']),
                             'nom'=>htmlspecialchars($_POST['nom']),
                             'email'=>$_POST['email'],
                             'date_naissance'=>$_POST['date'],
                             'commentaire'=>htmlspecialchars($_POST['commentaire'])
                         );
+                        //on execute une requete preparée pour savegarder les data
                         $request=$pdo->prepare('INSERT INTO commentaires(prenom,nom,email,date_naissance,commentaire) VALUES(:prenom,:nom,:email,:date_naissance,:commentaire)');
                         $request->execute($donnees);
                         
                     }
                     else{
-                        $erreur="Vous devez ecrire quelques choses";
+                        $erreur="Vous devez ecrire quelques choses en commentqire";
                     }
                 }else{
 
@@ -35,12 +37,12 @@ function isEmail($string){
             $erreur="le champ prenom ne doit pas être vide";
         }
     }
-    //je redirige vers index.php
+    //je redirige vers dynamique.php
     if(isset($erreur)){
-        header('location:index.php?erreur='.$erreur);
+        header('location:dynamique.php?erreur='.$erreur);
         exit();
     }else{
-        header('location:index.php');
+        header('location:dynamique.php');
         exit();
     }
 

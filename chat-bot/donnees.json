@@ -1,7 +1,10 @@
 {
     "bonsoir":"Bonsoir",
     "bonjour":"Bonjour",
+    "salut":"Salut, comment tu vas ?",
+    "je vais bien":"Je suis ravis !",
     "comment tu vas ?":"Je vais bien",
     "comment on t'appelle":"Je m'appelle Vchat",
-    "que-ce-que je peut faire avec toi ?":"Je suis là pour converser avec les gens"
+    "que-ce-que je peut faire avec toi ?":"Je suis là pour converser avec les gens",
+    "quoi de neuf ?":"Rien de spécial..."
 }
